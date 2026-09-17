@@ -14,7 +14,7 @@ The included workflow publishes only the contents of `dist/`. Relative asset pat
 
 ## Contact details used
 
-- Mobile / WhatsApp: +91 73000 73327
+- Mobile / WhatsApp: +91 90241 81916
 - Reception: 0291 255 5430
 - Address: 102, First Polo, Paota, Mandore Road, opposite Trends Showroom, Jodhpur, Rajasthan
 
